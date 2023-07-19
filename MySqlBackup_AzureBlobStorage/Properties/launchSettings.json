@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MySqlBackup_AzureBlobStorage": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7026",
+      "launchBrowser": false
+    }
+  }
+}
