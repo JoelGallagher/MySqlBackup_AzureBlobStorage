@@ -1,0 +1,11 @@
+{
+	"IsEncrypted": false,
+	"Values": {
+		"AzureWebJobsStorage": "UseDevelopmentStorage=true",
+		"FUNCTIONS_WORKER_RUNTIME": "dotnet",
+		"StorageAccountConnectionString": "TODO",
+		"DatabaseConnectionString": "TODO",
+		"ContainerName": "TODO",
+		"RetentionDays": 14
+	}
+}
